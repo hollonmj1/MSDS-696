@@ -1,0 +1,401 @@
+id,name,popularity,genres,year,simplified_genre
+6JMGrupbzJZ3yuQhTGyeHr,Year 200X,15,['scorecore'],2019,Other
+06HL4z0CvFAxyc27GXpf02,Taylor Swift,100,['pop'],2019,Pop
+3TVXtAsR1Inumwj472S9r4,Drake,95,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",2019,Hip Hop
+40ZNYROS4zLfyyBSs2PGe2,Zach Bryan,91,['classic oklahoma country'],2019,Country
+4oUHIQIBe0LHzYfvXNW4QM,Morgan Wallen,91,['contemporary country'],2019,Country
+2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,92,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",2019,Hip Hop
+6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,95,"['art pop', 'pop']",2019,Pop
+5K4W6rqBFWDnAN6FQUkS6x,Kanye West,92,"['chicago rap', 'hip hop', 'rap']",2019,Rap
+7dGJo4pcD2V6oG8kP0tJRR,Eminem,93,"['detroit hip hop', 'hip hop', 'rap']",2019,Hip Hop
+1RyvyyTE3xzB2ZywiAwp0i,Future,91,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",2019,Hip Hop
+0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,93,"['rap', 'slap house']",2019,Rap
+246dkjvS1zLTtiykXe5h60,Post Malone,91,"['dfw rap', 'melodic rap', 'pop', 'rap']",2019,Rap
+1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,94,"['canadian contemporary r&b', 'canadian pop', 'pop']",2019,R&B
+4q3ewBCX7sLwd24euuV69X,Bad Bunny,94,"['reggaeton', 'trap latino', 'urbano latino']",2019,Reggae
+718COspgdWOnwOFpJHRZHS,Luke Combs,87,"['contemporary country', 'country']",2019,Country
+0iEtIxbK0KxaSlF7G42ZOp,Metro Boomin,89,['rap'],2019,Rap
+1VPmR4DJC1PlOtd0IADAO0,$uicideboy$,86,"['cloud rap', 'dark trap', 'new orleans rap', 'underground hip hop']",2019,Rap
+7tYKF4w9nC0nq9CsPZTHyP,SZA,89,"['pop', 'r&b', 'rap']",2019,Pop
+1URnnhqYAYcrqrcwql10ft,21 Savage,88,"['atl hip hop', 'hip hop', 'rap']",2019,Hip Hop
+74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,90,['pop'],2019,Pop
+00FQb4jTyendYWaN8pK0wa,Lana Del Rey,91,"['art pop', 'pop']",2019,Pop
+25uiPmTg16RbhZWAqwLBy5,Charli xcx,88,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']",2019,Pop
+5pKCCKE2ajJHZ9KAiaK11H,Rihanna,90,"['barbadian pop', 'pop', 'urban contemporary']",2019,Pop
+2RQXRUsr4IW1f3mKyKsy4B,Noah Kahan,85,['pov: indie'],2019,Indie
+4MCBfE4596Uoi2O4DtmEMz,Juice WRLD,86,"['chicago rap', 'melodic rap', 'rap']",2019,Rap
+66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,91,['pop'],2019,Pop
+2h93pZq0e7k5yf4dywlkpM,Frank Ocean,86,"['lgbtq+ hip hop', 'neo soul']",2019,Hip Hop
+5f7VJjfbwm532GiveGC0ZK,Lil Baby,86,"['atl hip hop', 'atl trap', 'rap', 'trap']",2019,Hip Hop
+55Aa2cqylxrFIXC767Z865,Lil Wayne,85,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",2019,Hip Hop
+15UsOTVnJzReFVN1VCnxy4,XXXTENTACION,87,"['emo rap', 'miami hip hop', 'rap']",2019,Rap
+6l3HvQ5sa6mXTsMTB19rO5,J. Cole,85,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",2019,Hip Hop
+2hlmm7s2ICUX0LVIhVFlZQ,Gunna,86,"['atl hip hop', 'melodic rap', 'rap', 'trap']",2019,Hip Hop
+790FomKkXshlbRYZFtlgla,KAROL G,91,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",2019,Reggae
+0ys2OFYzWYB5hRDLCsBqxt,Fuerza Regida,87,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",2019,Other
+4V8LLVI7PbaPR0K2TGSxFF,"Tyler, The Creator",85,"['hip hop', 'rap']",2019,Hip Hop
+1McMsnEElThX1knmY4oliG,Olivia Rodrigo,87,['pop'],2019,Pop
+699OTQXzgjhIYAHMy9RyPD,Playboi Carti,86,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']",2019,Hip Hop
+4O15NlyKLIASxsJ0PrXPfz,Lil Uzi Vert,84,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']",2019,Hip Hop
+2FXC3k01G6Gw61bmprjgqS,Hozier,86,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']",2019,Rock
+7bXgB6jMjp9ATFy66eO08Z,Chris Brown,87,"['r&b', 'rap']",2019,R&B
+7c0XG5cIJTrrAgEC3ULPiq,Ty Dolla $ign,86,"['hip hop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",2019,Hip Hop
+7Gi6gjaWy3DxyilpF1a8Is,Junior H,89,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",2019,Other
+0du5cEVh5yTK9QJze8zA0C,Bruno Mars,89,"['dance pop', 'pop']",2019,Pop
+4YLtscXsxbVgi031ovDDdh,Chris Stapleton,82,"['contemporary country', 'outlaw country']",2019,Country
+4Gso3d4CscCijv0lmajZWs,Don Toliver,85,['rap'],2019,Rap
+0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,85,"['hip pop', 'pop', 'queens hip hop', 'rap']",2019,Pop
+2LRoIwlKmHjgvigdNGBHNo,Feid,91,"['colombian pop', 'pop reggaeton', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",2019,Pop
+3tlXnStJ1fFhdScmQeLpuG,Brent Faiyaz,83,"['r&b', 'rap']",2019,R&B
+1uNFoZAHBGtllmzznpCI3s,Justin Bieber,89,"['canadian pop', 'pop']",2019,Pop
+7wlFDEWiM5OoIAt8RSli8b,YoungBoy Never Broke Again,81,"['baton rouge rap', 'rap']",2019,Rap
+6vWDO969PvNqNYHIOW5v0m,Beyoncé,86,"['pop', 'r&b']",2019,Pop
+3xvaSlT4xsyk6lY1ESOspO,Disney,84,[],2019,Other
+4gzpq5DPGxSnKTe4SA8HAU,Coldplay,90,"['permanent wave', 'pop']",2019,Pop
+1mcTU81TzQhprhouKaTkpq,Rauw Alejandro,89,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",2019,Pop
+13ubrt8QOOCPljQ2FL1Kca,A$AP Rocky,84,"['east coast hip hop', 'hip hop', 'rap']",2019,Hip Hop
+19k8AgwwTSxeaxkOuCQEJs,Jelly Roll,81,"['country rap', 'nashville hip hop', 'tennessee hip hop']",2019,Country
+181bsRPaVXVlUKXrxwZfHK,Megan Thee Stallion,82,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",2019,Rap
+5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,85,"['dance pop', 'pop']",2019,Pop
+73sIBHcqh3Z3NyqHKZ7FOL,Childish Gambino,82,"['atl hip hop', 'hip hop', 'rap']",2019,Hip Hop
+1U1el3k54VvEUzo3ybLPlM,Kali Uchis,84,['colombian pop'],2019,Pop
+6LuN9FCkKOj5PcnpouEgny,Khalid,85,"['pop', 'pop r&b']",2019,Pop
+6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,88,"['dance pop', 'pop', 'uk pop']",2019,Pop
+1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,90,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",2019,Pop
+50co4Is1HCEo8bhOyUWKpn,Young Thug,83,"['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']",2019,Hip Hop
+53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,88,"['modern rock', 'pop', 'rock']",2019,Rock
+4LLpKhyESsyAXpc4laK94U,Mac Miller,82,"['hip hop', 'pittsburgh rap', 'rap']",2019,Hip Hop
+6qxpnaukVayrQn6ViNvu9I,BigXthaPlug,79,['southern hip hop'],2019,Hip Hop
+7CajNmpbOovFoOoasH2HaY,Calvin Harris,87,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house', 'uk dance']",2019,Pop
+13ZEDW6vyBF12HYcZRr4EV,Tyler Childers,79,"['kentucky indie', 'kentucky roots', 'outlaw country']",2019,Indie
+6XyY86QOPPrYVGvF9ch6wz,Linkin Park,86,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",2019,Metal
+0elWFr7TW8piilVRYJUe4P,Natanael Cano,88,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",2019,Other
+3WrFJ7ztbogyGnTHbHJFl2,The Beatles,85,"['british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",2019,Rock
+4tuJ0bMpJh08umKkEXKUI5,Gracie Abrams,83,['alt z'],2019,Other
+2kCcBybjl3SAtIcwdWpUe3,Lil Peep,83,"['cloud rap', 'emo rap', 'lgbtq+ hip hop']",2019,Rap
+46SHBwWsqBkxI7EeeBEQG7,Kodak Black,81,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",2019,Rap
+3hcs9uc56yIGFCSy9leWe7,Lil Durk,81,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']",2019,Rap
+2EMAnMvWE2eb56ToJVfCWs,Bryson Tiller,81,"['kentucky hip hop', 'r&b', 'rap']",2019,Hip Hop
+57vWImR43h4CaDao012Ofp,Steve Lacy,81,['afrofuturism'],2019,Other
+2tIP7SsRs7vjIcLrU85W8J,The Kid LAROI,83,['australian hip hop'],2019,Hip Hop
+3l0CmX0FuQjFxr8SK7Vqag,Clairo,81,"['bedroom pop', 'indie pop', 'pov: indie']",2019,Pop
+3nFkdlSjzX9mRTtwJOzDYB,JAY-Z,83,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']",2019,Hip Hop
+0QUBaF6Rtta4TTmxYYfzux,White Noise Radiance,81,['shush'],2019,Other
+4rXABp4A7KjG9elWFNAbO4,Miracle Tones,81,"['healing hz', 'meditation']",2019,Other
+66ihevNkSYNzRAl44dx6jJ,Carin Leon,86,"['corrido', 'musica mexicana', 'sad sierreno', 'sierreno']",2019,Other
+6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,87,"['pop', 'singer-songwriter pop', 'uk pop']",2019,Pop
+6icQOAFXDZKsumw3YXyusw,Lil Yachty,80,"['atl hip hop', 'melodic rap', 'rap', 'trap']",2019,Hip Hop
+6Xgp2XMz1fhVYe7i6yNAax,Trippie Redd,80,"['melodic rap', 'rap', 'trap']",2019,Rap
+3qiHUAX7zY4Qnjx8TNUzVx,Yeat,81,"['pluggnb', 'rage rap']",2019,Rap
+08GQAI4eElDnROBrJRGE0X,Fleetwood Mac,82,"['album rock', 'classic rock', 'rock', 'soft rock', 'yacht rock']",2019,Rock
+5nSGBmlgUdqWNExnOX8VtV,Rain Sounds,80,"['environmental', 'sleep', 'sound', 'water']",2019,Other
+1WaFQSHVGZQJTbf0BdxdNo,Tommy Richman,82,['chill abstract hip hop'],2019,Hip Hop
+6AgTAQt8XS6jRWi4sX7w49,Polo G,80,"['chicago rap', 'rap']",2019,Rap
+0TnOYISbd1XYRBk9myaseg,Pitbull,85,"['dance pop', 'miami hip hop', 'pop']",2019,Pop
+3y2cIKLjiOlp1Np37WiUdH,Shaboozey,81,['pop rap'],2019,Pop
+6jJ0s89eD6GaHleKKya26X,Katy Perry,85,['pop'],2019,Pop
+0pePYDrJGk8gqMRbXrLJC8,Luis R Conriquez,84,"['corrido', 'norteno', 'sad sierreno', 'sierreno']",2019,Other
+1vyhD5VmyZ7KMfW5gqLgo5,J Balvin,87,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",2019,Reggae
+04gDigrS5kc9YWfZHwBETP,Maroon 5,85,['pop'],2019,Pop
+64KEffDW9EtZ1y2vBYgq8T,Marshmello,83,"['brostep', 'edm', 'pop', 'progressive electro house']",2019,Pop
+77SW9BnxLY8rJ0RciFqkHh,The Neighbourhood,84,"['modern alternative rock', 'modern rock', 'pop']",2019,Rock
+2R21vXR83lH98kGeO99Y66,Anuel AA,88,"['reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino', 'urbano latino']",2019,Reggae
+1HY2Jd0NmPuamShAr6KMms,Lady Gaga,85,"['art pop', 'dance pop', 'pop']",2019,Pop
+1i8SpTcr7yvPOmcqrbnVXY,Ozuna,87,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",2019,Pop
+6KImCVD70vtIoJWnq6nGn3,Harry Styles,84,['pop'],2019,Pop
+0L8ExT028jH3ddEcZwqJJ5,Red Hot Chili Peppers,83,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",2019,Rock
+2dIgFjalVxs4ThymZ67YCE,Stray Kids,85,"['k-pop', 'k-pop boy group', 'pop']",2019,Pop
+7iK8PXO48WeuP03g8YR51W,Myke Towers,88,"['reggaeton', 'trap latino', 'urbano latino']",2019,Reggae
+33qOK5uJ8AR2xuQQAhHump,Teddy Swims,83,[],2019,Other
+3YQKmKGau1PzlVlkL1iodx,Twenty One Pilots,82,"['modern rock', 'pop', 'pov: indie', 'rock']",2019,Rock
+5Pwc4xIPtQLFEnJriah9YJ,OneRepublic,85,"['piano rock', 'pop']",2019,Rock
+2jku7tDXc6XoB6MO2hFuqg,Tory Lanez,81,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'trap']",2019,Hip Hop
+45dkTj5sMRSjrmBSBeiHym,Tate McRae,82,['pop'],2019,Pop
+3IYUhFvPQItj6xySrBmZkd,Creedence Clearwater Revival,82,"['album rock', 'classic rock', 'country rock', 'mellow gold', 'rock', 'southern rock', 'swamp rock']",2019,Rock
+1QAJqy2dA3ihHBFIHRphZj,Cigarettes After Sex,83,"['ambient pop', 'dream pop', 'el paso indie', 'shoegaze']",2019,Pop
+45TgXXqMDdF8BkjA83OM7z,Rod Wave,77,['florida rap'],2019,Rap
+4VMYDCV2IEDYJArk749S6m,Daddy Yankee,86,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",2019,Hip Hop
+6Ghvu1VvMGScGpOUJBAHNH,Deftones,79,"['alternative metal', 'nu metal', 'rap metal', 'rock', 'sacramento indie']",2019,Metal
+23zg3TcAtWQy7J6upgbUnj,USHER,82,"['atl hip hop', 'contemporary r&b', 'dance pop', 'pop', 'r&b', 'rap', 'south carolina hip hop', 'urban contemporary']",2019,Hip Hop
+6olE6TJLqED3rqDCT0FyPh,Nirvana,82,"['grunge', 'permanent wave', 'rock']",2019,Grunge
+3q7HBObVc0L8jNeTe5Gofh,50 Cent,83,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop', 'rap']",2019,Hip Hop
+7hJcb9fa4alzcOq3EaNPoG,Snoop Dogg,82,"['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']",2019,Funk
+5ZS223C6JyBfXasXxrRqOk,Jhené Aiko,78,['r&b'],2019,R&B
+2ye2Wgw4gimLv2eAKyk1NB,Metallica,83,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",2019,Rock
+5tQMB0cuNXdCtzovGt55uD,LUCKI,76,['plugg'],2019,Other
+4Ga1P7PMIsmqEZqhYZQgDo,Lil Tecca,80,"['melodic rap', 'pluggnb', 'rap']",2019,Rap
+63yrD80RY3RNEM2YDpUpO8,Melanie Martinez,80,"['alt z', 'electropop', 'pop']",2019,Pop
+2HPaUgqeutzr3jx5a9WyDV,PARTYNEXTDOOR,80,"['r&b', 'rap', 'urban contemporary']",2019,R&B
+1dfeR4HaWDbWqFHLkxsg1d,Queen,85,"['classic rock', 'glam rock', 'rock']",2019,Rock
+7oPftvlwr6VrsViSDV7fJY,Green Day,81,"['modern rock', 'permanent wave', 'punk', 'rock']",2019,Rock
+3Sz7ZnJQBIHsXLUSo0OQtM,Mac DeMarco,80,"['edmonton indie', 'lo-fi indie', 'pov: indie', 'slacker rock']",2019,Indie
+70kkdajctXSbqSMJbQO424,Kacey Musgraves,77,"['classic texas country', 'country dawn']",2019,Country
+31W5EY0aAly4Qieq6OFu6I,A Boogie Wit da Hoodie,78,"['melodic rap', 'rap', 'trap']",2019,Rap
+3tJoFztHeIJkJWMrx0td2f,Moneybagg Yo,76,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",2019,Hip Hop
+6TIYQ3jFPwQSRmorSezPxX,mgk,79,"['ohio hip hop', 'pop rap']",2019,Hip Hop
+6USv9qhCn6zfxlBQIYJ9qs,Dominic Fike,79,"['alternative pop rock', 'pov: indie']",2019,Pop
+0BvkDsjIUla7X0k6CSWh1I,Luke Bryan,76,"['contemporary country', 'country', 'country road', 'modern country rock']",2019,Country
+0EmeFodog0BfCgMzAIvKQp,Shakira,86,"['colombian pop', 'dance pop', 'latin pop', 'pop']",2019,Pop
+3Nrfpe0tUJi4K4DXYWgMUX,BTS,86,"['k-pop', 'k-pop boy group', 'pop']",2019,Pop
+5YGY8feqx7naU7z4HrwZM6,Miley Cyrus,83,['pop'],2019,Pop
+31TPClRtHm23RisEBtV3X7,Justin Timberlake,81,"['dance pop', 'pop']",2019,Pop
+3fMbdgg4jU18AjLCKBhRSm,Michael Jackson,83,"['r&b', 'soul']",2019,R&B
+1Yj5Xey7kTwvZla8sqdsdE,Cris Mj,87,"['mambo chileno', 'trap latino', 'urbano chileno', 'urbano latino']",2019,Rap
+16oZKvXb6WkQlVAjwo2Wbg,The Lumineers,79,"['folk-pop', 'modern rock', 'neo mellow', 'stomp and holler']",2019,Pop
+20wkVLutqVOYrc0kxFs7rA,Daniel Caesar,81,['canadian contemporary r&b'],2019,R&B
+1Tie3AZgLQZqYEp8Fv4zOZ,Koe Wetzel,75,"['classic texas country', 'modern country pop']",2019,Country
+5QNm7E7RU2m64l6Gliu8Oy,HARDY,76,"['contemporary country', 'modern country pop']",2019,Country
+3PhoLpVuITZKcymswpck5b,Elton John,83,"['glam rock', 'mellow gold', 'piano rock', 'rock']",2019,Rock
+6zLBxLdl60ekBLpawtT63I,Cody Johnson,75,"['classic texas country', 'contemporary country', 'modern country pop']",2019,Country
+137W8MRPWKqSmrBGDBFSop,Wiz Khalifa,81,"['hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",2019,Hip Hop
+0fA0VVWsXO9YnASrzqfmYu,Kid Cudi,79,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",2019,Hip Hop
+5INjqkS1o8h1imAzPqGZBb,Tame Impala,80,"['australian psych', 'modern rock', 'neo-psychedelic', 'rock']",2019,Rock
+360IAlyVv4PCEVjgyMZrxK,Miguel,79,"['r&b', 'urban contemporary']",2019,R&B
+57LYzLEk2LcFghVwuWbcuS,Summer Walker,79,"['r&b', 'rap']",2019,R&B
+4UXqAaa6dQYAk18Lv7PEgX,Fall Out Boy,79,"['emo', 'modern rock', 'pop', 'pop punk', 'rock']",2019,Rock
+4Z8W4fKeB5YxbusRsdQVPb,Radiohead,81,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",2019,Rock
+4AK6F7OLvEQ5QYCBNiQWHq,One Direction,84,"['boy band', 'pop', 'post-teen pop', 'talent show']",2019,Pop
+0RESbWvOMyua0yuyVrztJ5,Key Glock,76,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",2019,Hip Hop
+4r63FhuTkUYltbVAg5TQnk,DaBaby,78,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",2019,Hip Hop
+35l9BRT7MXmM8bv2WDQiyB,beabadoobee,79,"['bedroom pop', 'bubblegrunge', 'indie pop', 'pov: indie']",2019,Pop
+26VFTg2z8YR0cCuwLzESi2,Halsey,81,"['electropop', 'etherpop', 'indie poptimism', 'pop']",2019,Pop
+4kYSro6naA4h99UJvo89HB,Cardi B,80,"['pop', 'rap']",2019,Pop
+4DdkRBBYG6Yk9Ka8tdJ9BW,Offset,79,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",2019,Hip Hop
+0ErzCpIMyLcjPiwT4elrtZ,NLE Choppa,78,"['memphis hip hop', 'rap']",2019,Hip Hop
+4yvcSjfu4PC0CYQyLy4wSq,Glass Animals,78,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']",2019,Pop
+0VRj0yCOv2FXJNP47XQnx5,Quavo,80,"['atl hip hop', 'melodic rap', 'rap', 'trap']",2019,Hip Hop
+2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,82,"['reggae', 'roots reggae']",2019,Reggae
+2o5jDhtHVPhrJdv3cEQ99Z,Tiësto,84,"['big room', 'brostep', 'dutch edm', 'edm', 'house', 'pop dance', 'progressive electro house', 'slap house', 'trance']",2019,House
+1r4hJ1h58CWwUQe3MxPuau,Maluma,85,"['latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",2019,Pop
+5H4yInM5zmHqpKIoMNAx4r,Central Cee,83,"['melodic drill', 'r&drill']",2019,Other
+3DbwFQlvLxRSi2uX8mf81A,Sexyy Red,76,['trap queen'],2019,Rap
+6deZN1bslXzeGvOLaLMOIF,Nickelback,79,"['alternative metal', 'canadian rock', 'post-grunge']",2019,Metal
+3aQeKQSyrW4qWr35idm0cy,T-Pain,78,"['dance pop', 'gangster rap', 'hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap', 'urban contemporary']",2019,Pop
+6fOMl44jA4Sp5b9PpYCkzz,NF,78,"['hip hop', 'pop rap']",2019,Hip Hop
+6FBDaR13swtiWwGhX1WQsP,blink-182,78,"['alternative metal', 'modern rock', 'pop punk', 'punk', 'rock', 'socal pop punk']",2019,Metal
+6Cqtx9fpxzggIMuKn0RGCp,Dream Supplier,79,[],2019,Other
+5lwmRuXgjX8xIwlnauTZIP,Romeo Santos,83,"['bachata', 'latin hip hop', 'latin pop', 'urbano latino']",2019,Hip Hop
+5eAWCfyUhZtHHtBdNk56l1,System Of A Down,80,"['alternative metal', 'nu metal', 'rap metal', 'rock']",2019,Metal
+0c173mlxpT3dSFRgMO8XPh,Big Sean,78,"['detroit hip hop', 'hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",2019,Hip Hop
+2RdwBSPQiwcmiDo9kixcl8,Pharrell Williams,80,"['dance pop', 'pop']",2019,Pop
+6LqNN22kT3074XbTVUrhzX,Kesha,79,"['dance pop', 'pop']",2019,Pop
+2QMsj4XJ7ne2hojxt6v5eb,Riley Green,75,"['contemporary country', 'modern country pop']",2019,Country
+5R9eOlQf7HGzD6srMeJKio,Solfeggio Healing Frequencies MT,77,"['healing hz', 'meditation', 'solfeggio product']",2019,Other
+2qoQgPAilErOKCwE2Y8wOG,GloRilla,76,['southern hip hop'],2019,Hip Hop
+1zNqQNIdeOUZHb8zbZRFMX,Swae Lee,80,"['melodic rap', 'rap', 'trap']",2019,Rap
+6DPYiyq5kWVQS4RGwxzPC7,Dr. Dre,80,"['g funk', 'gangster rap', 'hip hop', 'rap', 'west coast rap']",2019,Funk
+6zFYqv1mOsgBRQbae3JJ9e,Billy Joel,78,"['album rock', 'classic rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",2019,Rock
+0z4gvV4rjIZ9wHck67ucSV,Akon,82,['dance pop'],2019,Pop
+2wY79sveU1sp5g7SokKOiI,Sam Smith,83,"['pop', 'uk pop']",2019,Pop
+3FfvYsEGaIb52QPXhg4DcH,Jason Aldean,74,"['contemporary country', 'country', 'country road', 'modern country rock']",2019,Country
+5vngPClqofybhPERIqQMYd,George Strait,74,"['contemporary country', 'country', 'country road']",2019,Country
+22bE4uQ6baNwSHPVcDxLCe,The Rolling Stones,79,"['album rock', 'british invasion', 'classic rock', 'rock']",2019,Rock
+21E3waRsmPlU7jZsS13rcj,Ne-Yo,81,"['dance pop', 'pop', 'r&b', 'urban contemporary']",2019,Pop
+6x2LnllRG5uGarZMsD4iO8,Thomas Rhett,74,"['contemporary country', 'country', 'country road', 'modern country rock']",2019,Country
+2LIk90788K0zvyj2JJVwkJ,Jack Harlow,79,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']",2019,Hip Hop
+26dSoYclwsYLMAKD3tpOr4,Britney Spears,81,"['dance pop', 'pop']",2019,Pop
+69GGBxA162lTqCwzJG5jLp,The Chainsmokers,82,['pop'],2019,Pop
+74XFHRwlV6OrjEM0A2NCMF,Paramore,78,"['candy pop', 'modern rock', 'pixie', 'pop', 'pop emo', 'pop punk', 'rock']",2019,Pop
+77kULmXAQ6vWer7IIHdGzI,Jordan Davis,74,['contemporary country'],2019,Country
+7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,83,"['canadian pop', 'pop', 'viral pop']",2019,Pop
+3oSJ7TBVCWMDMiYjXNiCKE,Kane Brown,76,"['black americana', 'contemporary country', 'country', 'country road']",2019,Country
+3grHWM9bx2E9vwJCdlRv9O,Kenny Chesney,73,"['contemporary country', 'country', 'country road']",2019,Country
+05fG473iIaoy82BF1aGhL8,Slipknot,79,"['alternative metal', 'nu metal', 'rap metal', 'rock']",2019,Metal
+0XeEobZplHxzM9QzFQWLiR,Eslabon Armado,77,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",2019,Other
+5WUlDfRSoLAfcVSX1WnrxN,Sia,84,['pop'],2019,Pop
+4YRxDV8wJFPHPTeXepOstw,Arijit Singh,90,"['filmi', 'modern bollywood']",2019,Other
+3AA28KZvwAUcZuOKwyblJQ,Gorillaz,79,"['alternative hip hop', 'modern rock', 'rock']",2019,Hip Hop
+1ZwdS5xdxEREPySFridCfh,2Pac,79,"['g funk', 'gangster rap', 'hip hop', 'rap', 'west coast rap']",2019,Funk
+5SXuuuRpukkTvsLuUknva1,Baby Keem,76,"['hip hop', 'rap']",2019,Hip Hop
+15iVAtD3s3FsQR4w1v6M0P,Chief Keef,76,"['chicago bop', 'chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",2019,Rap
+6QtgPSJPSzcnn7dPZ4VINp,King Von,76,"['chicago rap', 'rap']",2019,Rap
+13y7CgLHjMVRMDqxdx0Xdo,Gucci Mane,76,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",2019,Hip Hop
+4MoAOfV4ROWofLG3a3hhBN,Jon Pardi,74,"['contemporary country', 'country', 'country road', 'modern country rock']",2019,Country
+0hEurMDQu99nJRq8pTxO14,John Mayer,77,"['neo mellow', 'singer-songwriter']",2019,Other
+4nDoRrQiYLoBzwC5BhVJzF,Camila Cabello,81,"['dance pop', 'pop']",2019,Pop
+33ScadVnbm2X8kkUqOkC6Z,Don Omar,83,"['latin hip hop', 'puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",2019,Hip Hop
+5fMUXHkw8R8eOP2RNVYEZX,Diplo,78,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop dance']",2019,Pop
+26T3LtbuGT1Fu9m0eRq5X3,Cage The Elephant,75,"['modern alternative rock', 'modern rock', 'pov: indie', 'punk blues', 'rock']",2019,Rock
+1KCSPY1glIKqW2TotWuXOR,P!nk,81,"['dance pop', 'pop']",2019,Pop
+3BAgmPNIK5IJl7zMK1wvMA,That Mexican OT,73,['texas latin rap'],2019,Rap
+0EdvGhlC1FkGItLOWQzG4J,Sublime,73,"['rap rock', 'reggae fusion', 'ska mexicano', 'ska punk']",2019,Rock
+6U3ybJ9UHNKEdsH7ktGBZ7,JID,77,"['hip hop', 'pop rap', 'rap', 'underground hip hop']",2019,Hip Hop
+6lcwlkAjBPSKnFBZjjZFJs,Alex G,76,"['philly indie', 'pov: indie', 'slacker rock']",2019,Indie
+1Ffb6ejR6Fe5IamqA5oRUF,Bring Me The Horizon,80,"['melodic metalcore', 'metalcore', 'modern rock', 'rock', 'uk metalcore']",2019,Metal
+20JZFwl6HVl6yg8a4H3ZqK,Panic! At The Disco,77,['pop'],2019,Pop
+6EPlBSH2RSiettczlz7ihV,Sleepy Hallow,75,"['brooklyn drill', 'nyc rap']",2019,Rap
+7ITMCzIU9uII8gwRg8JAhc,Odetari,78,"['krushclub', 'sigilkore']",2019,Other
+1r1uxoy19fzMxunt3ONAkG,Phoebe Bridgers,77,"['indie pop', 'la indie', 'pov: indie']",2019,Pop
+0jnsk9HBra6NMjO2oANoPY,Flo Rida,80,"['dance pop', 'miami hip hop', 'pop', 'pop rap']",2019,Pop
+6yJCxee7QumYr820xdIsjo,Zac Brown Band,73,"['contemporary country', 'country', 'country road', 'modern country rock']",2019,Country
+77tT1kLj6mCWtFNqiOmP9H,Daryl Hall & John Oates,76,"['album rock', 'classic rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'yacht rock']",2019,Rock
+3ipn9JLAPI5GUEo4y4jcoi,Ludacris,77,"['atl hip hop', 'dance pop', 'dirty south rap', 'hip hop', 'old school atlanta hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",2019,Hip Hop
+2IvkS5MXK0vPGnwyJsrEyV,Eric Church,73,"['contemporary country', 'country', 'country road']",2019,Country
+3YCKuqpv9nCsIhJ2v8SMix,Elevation Worship,75,"['ccm', 'christian music', 'worship']",2019,Other
+0eDvMgVFoNV3TpwtrVCoTj,Pop Smoke,79,"['brooklyn drill', 'hip hop', 'rap']",2019,Hip Hop
+0PCCGZ0wGLizHt2KZ7hhA2,Artemas,80,[],2019,Other
+3jK9MiCrA42lLAdMGUZpwa,Anderson .Paak,78,"['escape room', 'hip hop', 'indie soul', 'neo soul']",2019,Hip Hop
+0XwVARXT135rw8lyw1EeWP,Christian Nodal,81,"['mariachi', 'musica mexicana', 'ranchera']",2019,Other
+0ECwFtbIWEVNwjlrfc6xoL,Eagles,76,"['album rock', 'classic rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",2019,Rock
+7jy3rLJdDQY21OgRLCZ9sD,Foo Fighters,78,"['alternative metal', 'alternative rock', 'modern rock', 'permanent wave', 'post-grunge', 'rock']",2019,Metal
+23fqKkggKUBHNkbKtXEls4,Kygo,81,"['edm', 'pop', 'pop dance', 'tropical house']",2019,Pop
+7FBcuc1gsnv6Y1nwFtNRCb,My Chemical Romance,78,"['emo', 'modern rock', 'pop punk', 'pov: indie', 'rock']",2019,Rock
+2n2RSaZqBuUUukhbLlpnE6,Sleep Token,75,['prog metal'],2019,Metal
+0C8ZW7ezQVs4URX5aX7Kqx,Selena Gomez,81,"['pop', 'post-teen pop']",2019,Pop
+1z7b1Pr1rSlvWRzsW3HOrS,Russ,75,"['hawaiian hip hop', 'pop rap']",2019,Hip Hop
+3GBPw9NK25X1Wt2OUvOwY3,Jack Johnson,77,['neo mellow'],2019,Other
+4xRYI6VqpkE3UwrDrAZL8L,Logic,75,"['conscious hip hop', 'hip hop', 'pop rap', 'rap']",2019,Hip Hop
+3yY2gUcIsjMr8hjo51PoJ8,The Smiths,78,"['madchester', 'new wave', 'permanent wave', 'rock', 'uk post-punk']",2019,Rock
+3MdXrJWsbVzdn6fe5JYkSQ,Latto,79,['trap queen'],2019,Rap
+3MZsBdqDrRTJihTHQrO6Dq,Joji,78,['viral pop'],2019,Pop
+329e4yvIujISKGKz1BZZbO,Farruko,82,"['reggaeton', 'trap latino', 'urbano latino']",2019,Reggae
+1dKdetem2xEmjgvyymzytS,Grupo Firme,80,"['banda', 'musica mexicana', 'norteno', 'sierreno']",2019,Other
+0C0XlULifJtAgn6ZNCW2eu,The Killers,78,"['alternative rock', 'dance rock', 'modern rock', 'permanent wave', 'rock']",2019,Rock
+0tmwSHipWxN12fsoLcFU3B,Manuel Turizo,83,"['colombian pop', 'latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",2019,Pop
+3b8QkneNDz4JHKKKlLgYZg,Florida Georgia Line,74,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",2019,Country
+5me0Irg2ANcsgc93uaYrpb,The Notorious B.I.G.,77,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']",2019,Hip Hop
+1sBkRIssrMs1AbVkOJbc7a,Rick Ross,76,"['dirty south rap', 'gangster rap', 'hip hop', 'rap', 'southern hip hop', 'trap']",2019,Rap
+4tZwfgrHOc3mvqYlEYSvVi,Daft Punk,80,"['electro', 'filter house', 'rock']",2019,House
+2pAWfrd7WFF3XhVt9GooDL,MF DOOM,76,"['east coast hip hop', 'hip hop', 'instrumental hip hop', 'rap']",2019,Hip Hop
+17lzZA2AlOHwCwFALHttmp,2 Chainz,75,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",2019,Hip Hop
+4iJLPqClelZOBCBifm8Fzv,Pierce The Veil,73,"['modern rock', 'pop punk', 'screamo']",2019,Rock
+3YbOSxo85kla7RID8ugnW3,Los Temerarios,79,"['grupera', 'musica mexicana']",2019,Other
+2bA6fzP0lMAQ4kz6CF61w8,Toby Keith,72,"['classic oklahoma country', 'contemporary country', 'country', 'country road']",2019,Country
+1gPhS1zisyXr5dHTYZyiMe,Kevin Gates,72,"['baton rouge rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",2019,Rap
+757aE44tKEUQEqRuT6GnEB,Roddy Ricch,77,"['melodic rap', 'rap', 'trap']",2019,Rap
+1qto4hHid1P71emI6Fd8xi,Aventura,80,"['bachata', 'bachata dominicana', 'latin hip hop', 'latin pop', 'tropical', 'urbano latino']",2019,Hip Hop
+1bfl0AU8SqmLkElptOprhC,Julión Álvarez y su Norteño Banda,81,"['banda', 'musica mexicana', 'norteno', 'sad sierreno']",2019,Other
+0LcJLqbBmaGUft1e9Mm8HV,ABBA,81,"['europop', 'swedish pop']",2019,Pop
+4SsVbpTthjScTS7U2hmr1X,Arcángel,83,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",2019,Hip Hop
+6oMuImdp5ZcFhWP0ESe6mG,Migos,75,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",2019,Hip Hop
+4Uc8Dsxct0oMqx0P6i60ea,Conan Gray,78,"['bedroom pop', 'pop', 'pov: indie']",2019,Pop
+6jGMq4yGs7aQzuGsMgVgZR,Lil Tjay,77,"['brooklyn drill', 'melodic rap', 'nyc rap', 'rap']",2019,Rap
+163tK9Wjr9P9DmM0AVK7lm,Lorde,77,"['art pop', 'metropopolis', 'nz pop', 'pop']",2019,Pop
+1G9G7WwrXka3Z1r7aIDjI7,Outkast,76,"['atl hip hop', 'dirty south rap', 'hip hop', 'old school atlanta hip hop', 'rap', 'southern hip hop']",2019,Hip Hop
+687cZJR45JO7jhk1LHIbgq,Tems,78,"['afro r&b', 'afrobeats', 'alte', 'nigerian pop']",2019,R&B
+6nVcHLIgY5pE2YCl8ubca1,JHAYCO,82,"['reggaeton', 'trap latino', 'urbano latino']",2019,Reggae
+1UTPBmNbXNTittyMJrNkvw,Blake Shelton,74,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']",2019,Country
+2C6i0I5RiGzDKN9IAF8reh,Banda MS de Sergio Lizárraga,80,"['banda', 'musica mexicana', 'norteno']",2019,Other
+3jOstUTkEu2JkjvRdBA5Gu,Weezer,74,"['alternative rock', 'modern power pop', 'modern rock', 'permanent wave', 'rock']",2019,Rock
+3eqjTLE0HfPfh78zjh6TqT,Bruce Springsteen,78,"['heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter']",2019,Rock
+3HiuzBlSW7pGDXlSFMhO2g,Young Dolph,71,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",2019,Hip Hop
+67hb7towEyKvt5Z8Bx306c,Empire Of The Sun,77,"['australian dance', 'australian electropop', 'dance rock', 'indietronica', 'neo-synthpop']",2019,Pop
+2sSGPbdZJkaSE2AbcGOACx,The Marías,74,"['bedroom pop', 'la indie']",2019,Pop
+36QJpDe2go2KgaRleHCDTp,Led Zeppelin,76,"['album rock', 'classic rock', 'hard rock', 'rock']",2019,Rock
+64M6ah0SkkRsnPGtGiRAbb,Bebe Rexha,80,"['dance pop', 'pop']",2019,Pop
+1yxSLGMDHlW21z4YXirZDS,Black Eyed Peas,80,"['dance pop', 'pop', 'pop rap']",2019,Pop
+0k17h0D3J5VfsdmQ1iZtE9,Pink Floyd,78,"['album rock', 'art rock', 'classic rock', 'progressive rock', 'psychedelic rock', 'rock', 'symphonic rock']",2019,Rock
+3DiDSECUqqY1AuBP8qtaIa,Alicia Keys,78,"['neo soul', 'pop', 'r&b']",2019,Soul
+4GGfAshSkqoxpZdoaHm7ky,ERNEST,72,['modern country pop'],2019,Pop
+6fxyWrfmjcbj5d12gXeiNV,Denzel Curry,74,"['dark trap', 'drill', 'hip hop', 'miami hip hop', 'pop rap', 'rap', 'trap', 'underground hip hop']",2019,Rap
+3RNrq3jvMZxD9ZyoOZbQOD,Korn,76,"['alternative metal', 'funk metal', 'hard rock', 'nu metal', 'post-grunge', 'rap metal', 'rock']",2019,Metal
+6JL8zeS1NmiOftqZTRgdTz,Meghan Trainor,78,"['hip pop', 'pop']",2019,Pop
+1Mxqyy3pSjf8kZZL4QVxS0,Frank Sinatra,76,"['adult standards', 'easy listening', 'lounge']",2019,Other
+6s22t5Y3prQHyaHWUN1R1C,AJR,73,['pov: indie'],2019,Indie
+1vCWHaC5f2uS3yhpwWbIA6,Avicii,81,"['dance pop', 'edm', 'pop', 'pop dance']",2019,Pop
+0rvjqX7ttXeg3mTy8Xscbt,Journey,76,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",2019,Rock
+1wRPtKGflJrBx9BmLsSwlU,Pritam,87,"['filmi', 'indian instrumental', 'modern bollywood']",2019,Other
+44NX2ffIYHr6D4n7RaZF7A,Van Morrison,75,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",2019,Rock
+0YinUQ50QDB7ZxSCLyQ40k,Mustard,75,"['cali rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",2019,Rap
+2oQX8QiMXOyuqbcZEFsZfm,El Alfa,78,"['dembow', 'rap dominicano', 'trap latino', 'urbano latino']",2019,Rap
+5LHRHt1k9lMyONurDHEdrp,Tyga,78,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",2019,Hip Hop
+02kJSzxNuaWGqwubyUba0Z,G-Eazy,77,"['indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",2019,Pop
+3XxNRirzbjfLdDli06zMaB,Eyedress,76,"['noise pop', 'pov: indie']",2019,Pop
+0cGUm45nv7Z6M6qdXYQGTX,Kehlani,75,"['pop', 'r&b', 'rap']",2019,Pop
+0X2BH1fck6amBIoJhDVmmJ,Ellie Goulding,80,"['indietronica', 'metropopolis', 'pop', 'uk pop']",2019,Indie
+5t28BP42x2axFnqOOMg3CM,Five Finger Death Punch,74,"['alternative metal', 'groove metal', 'nu metal']",2019,Metal
+6tbjWDEIzxoDsBA1FuhfPW,Madonna,80,"['dance pop', 'pop']",2019,Pop
+7cYEt1pqMgXJdq00hAwVpT,Chase Atlantic,79,['alternative r&b'],2019,R&B
+2rhFzFmezpnW82MNqEKVry,Ski Mask The Slump God,73,"['hip hop', 'miami hip hop', 'pop rap', 'rap', 'trap', 'underground hip hop']",2019,Hip Hop
+0epOFNiUfyON9EYx7Tpr6V,The Strokes,76,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",2019,Rock
+5LfGQac0EIXyAN8aUwmNAQ,The Offspring,77,"['alternative metal', 'permanent wave', 'post-grunge', 'punk', 'rock', 'skate punk', 'socal pop punk']",2019,Metal
+6kACVPfCOnqzgfEF5ryl0x,Johnny Cash,75,"['arkansas country', 'outlaw country', 'rock']",2019,Country
+1gW6pz5n1aK249L0GvfQCC,Grupo Marca Registrada,78,"['corrido', 'norteno', 'sad sierreno']",2019,Other
+1moxjboGR7GNWYIMWsRjgG,Florence + The Machine,77,"['baroque pop', 'modern rock', 'neo mellow', 'uk alternative pop']",2019,Pop
+64tNsm6TnZe2zpcMVMOoHL,Alice In Chains,73,"['alternative metal', 'alternative rock', 'grunge', 'hard rock', 'nu metal', 'rock']",2019,Metal
+3Isy6kedDrgPYoTS1dazA9,Sean Paul,81,"['dance pop', 'dancehall', 'pop', 'pop rap']",2019,Pop
+4mxWe1mtYIYfP040G38yvS,Alan Jackson,73,['country'],2019,Country
+4LEiUm1SRbFMgfqnQTwUbQ,Bon Iver,75,"['chamber pop', 'eau claire indie', 'indie folk', 'melancholia', 'modern rock']",2019,Pop
+6roFdX1y5BYSbp60OTJWMd,Tim McGraw,72,"['contemporary country', 'country', 'country road']",2019,Country
+5Y5TRrQiqgUO4S36tzjIRZ,Timbaland,78,"['dance pop', 'pop', 'pop rap']",2019,Pop
+0XKOBt59crntr7HQXXO8Yz,Brooks & Dunn,71,"['contemporary country', 'country', 'country road']",2019,Country
+6IKlXZEFOvk9itrP1s0knJ,The Red Clay Strays,71,['modern country pop'],2019,Pop
+3FUY2gzHeIiaesXtOAdB7A,Train,76,"['dance pop', 'neo mellow', 'pop', 'pop rock']",2019,Pop
+2gBjLmx6zQnFGQJCAQpRgw,Nelly,75,"['dance pop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'st louis rap', 'urban contemporary']",2019,Pop
+43ZHCT0cAZBISjO8DG9PnE,Elvis Presley,78,"['rock-and-roll', 'rockabilly']",2019,Rock
+4iHNK0tOyZPYnBU7nGAgpQ,Mariah Carey,77,"['dance pop', 'pop', 'urban contemporary']",2019,Pop
+3JsHnjpbhX4SnySpvpa9DK,V,82,"['j-division', 'korean ost']",2019,Other
+165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,76,"['alternative metal', 'funk metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",2019,Metal
+4OBJLual30L7gRl5UkeRcT,T.I.,74,"['atl hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",2019,Hip Hop
+4GNC7GD6oZMSxPGyXy4MNB,Lewis Capaldi,79,"['pop', 'uk pop']",2019,Pop
+45gHcnDnMC15sgx3VL7ROG,42 Dugg,71,"['detroit trap', 'southern hip hop', 'trap']",2019,Rap
+3bO19AOone0ubCsfDXDtYt,Myles Smith,78,['singer-songwriter pop'],2019,Pop
+28AyklUmMECPwdfo8NEsV0,Jimmy Buffett,70,['trop rock'],2019,Rock
+6y8XlgIV8BLlIg1tT1R10i,Old Dominion,71,"['contemporary country', 'country', 'country road', 'modern country rock']",2019,Country
+4fxd5Ee7UefO4CUXgwJ7IP,Giveon,76,['r&b'],2019,R&B
+1Oa0bMld0A3u5OTYfMzp5h,Nate Dogg,77,"['g funk', 'gangster rap', 'hardcore hip hop', 'hip hop', 'west coast rap']",2019,Funk
+4MVyzYMgTwdP7Z49wAZHx0,Lynyrd Skynyrd,73,"['album rock', 'classic rock', 'hard rock', 'rock', 'southern rock']",2019,Rock
+5IcR3N7QB1j6KBL8eImZ8m,ScHoolboy Q,73,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",2019,Rap
+3hYtANQYrE6pd2PbtEyTIy,Los Tigres Del Norte,77,"['banda', 'musica mexicana', 'norteno', 'ranchera']",2019,Other
+0sKsReKseslDlhxmbN6wLk,BabyTron,72,"['detroit hip hop', 'scam rap']",2019,Hip Hop
+1bdnGJxkbIIys5Jhk1T74v,Brandon Lake,72,"['ccm', 'worship']",2019,Other
+2CmaKO2zEGJ1NWpS1yfVGz,Falling In Reverse,74,"['alternative metal', 'pop punk', 'rap metal']",2019,Metal
+3Y7RZ31TRPVadSFVy1o8os,H.E.R.,75,"['r&b', 'rap']",2019,R&B
+014WIDx7H4BRCHB1faiisK,Los Tucanes De Tijuana,75,"['banda', 'corrido', 'musica bajacaliforniana', 'musica mexicana', 'norteno']",2019,Other
+5zixe6AbgXPqt4c1uSl94L,Connor Price,74,['singer-songwriter pop'],2019,Pop
+3WGpXCj9YhhfX11TToZcXP,Troye Sivan,77,"['australian pop', 'pop', 'viral pop']",2019,Pop
+40Yq4vzPs9VNUrIBG5Jr2i,The Smashing Pumpkins,73,"['alternative metal', 'alternative rock', 'grunge', 'permanent wave', 'rock', 'spacegrunge']",2019,Metal
+3KV3p5EY4AvKxOlhGHORLg,Jeremih,74,"['chicago rap', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']",2019,Rap
+69tiO1fG8VWduDl3ji2qhI,Mt. Joy,71,"['pov: indie', 'stomp and holler']",2019,Indie
+6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,80,"['pop', 'viral pop']",2019,Pop
+4obzFoKoKRHIphyHzJ35G3,Becky G,78,"['latin pop', 'latin viral pop', 'rap latina', 'reggaeton', 'trap latino', 'urbano latino']",2019,Pop
+3JhNCzhSMTxs9WLGJJxWOY,Macklemore,77,"['pop rap', 'seattle hip hop']",2019,Pop
+1SupJlEpv7RS2tPNRaHViT,Nicky Jam,80,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",2019,Hip Hop
+0nmQIMXWTXfhgOBdNzhGOs,Avenged Sevenfold,77,['alternative metal'],2019,Metal
+4sCKpwwEsgReZxjtKFm2A0,Tucker Wetmore,71,['modern country pop'],2019,Pop
+7nqOGRxlXj7N2JYbgNEjYH,SEVENTEEN,79,"['k-pop', 'k-pop boy group']",2019,Pop
+58lV9VcRSjABbAbfWS6skp,Bon Jovi,79,"['glam metal', 'rock']",2019,Metal
+0SwO7SWeDHJijQ3XNS7xEE,MGMT,74,"['alternative rock', 'indie rock', 'indietronica', 'modern rock', 'rock']",2019,Rock
+0oSGxfWSnnOXhD2fKuz2Gy,David Bowie,77,"['art rock', 'classic rock', 'glam rock', 'permanent wave', 'rock']",2019,Rock
+37230BxxYs9ksS7OkZw3IU,Chencho Corleone,79,"['reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",2019,Reggae
+4aXXDj9aZnlshx7mzj3W1N,Lin-Manuel Miranda,72,"['broadway', 'show tunes']",2019,Other
+5szilpXHcwOqnyKLqGco5j,Faye Webster,71,"['atlanta indie', 'indie pop']",2019,Indie
+4oLeXFyACqeem2VImYeBFe,Fred again..,78,"['edm', 'house', 'stutter house']",2019,House
+07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,78,"['dance pop', 'pop']",2019,Pop
+540vIaP2JwjQb9dm3aArA4,DJ Snake,79,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance']",2019,Pop
+2cFrymmkijnjDg9SS92EPM,blackbear,74,"['alt z', 'pop']",2019,Pop
+7t0rwkOPGlDPEhaOcVtOt9,The Cranberries,76,"['irish rock', 'pop rock', 'rock']",2019,Rock
+4PPoI9LuYeFX8V674Z1R6l,Vicente Fernández,77,"['mariachi', 'ranchera']",2019,Other
+7vk5e3vY1uw9plTHJAMwjN,Alan Walker,81,['electro house'],2019,House
+5SXEylV07TC57eanSxxg4R,Stick Figure,71,"['reggae fusion', 'reggae rock']",2019,Reggae
+1wZtkThiXbVNtj6hee6dz9,Wisin & Yandel,79,"['electro latino', 'reggaeton', 'trap latino', 'urbano latino']",2019,Reggae
+70BYFdaZbEKbeauJ670ysI,Shinedown,71,"['alternative metal', 'nu metal', 'post-grunge']",2019,Metal
+7kNqXtgeIwFtelmRjWv205,John Summit,74,['house'],2019,House
+78YqeIji3mgAS2K1Maca6x,Dylan Scott,71,"['contemporary country', 'country road', 'modern country rock']",2019,Country
+20sxb77xiYeusSH8cVdatc,Meek Mill,73,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",2019,Hip Hop
+2qk9voo8llSGYcZ6xrBzKx,Kings of Leon,76,"['modern rock', 'rock']",2019,Rock
+0p4nmQO2msCgU4IF37Wi3j,Avril Lavigne,77,"['canadian pop', 'candy pop', 'dance pop', 'pop']",2019,Pop
+7FsRH5bw8iWpSbMX1G7xf1,Joan Sebastian,78,"['banda', 'grupera', 'musica mexicana', 'norteno', 'ranchera']",2019,Other
+0A0FS04o6zMoto8OKPsDwY,YG,73,"['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",2019,Rap
+164Uj4eKjl6zTBKfJLFKKK,JVKE,76,"['modern indie pop', 'pov: indie', 'singer-songwriter pop']",2019,Pop
+5XJDexmWFLWOkjOEjOVX3e,Eladio Carrion,80,"['trap boricua', 'trap latino', 'trap triste', 'urbano latino']",2019,Rap
+28gNT5KBp7IjEOQoevXf9N,Camilo,81,"['colombian pop', 'latin pop', 'latin viral pop', 'reggaeton colombiano']",2019,Pop
+3oDbviiivRWhXwIE8hxkVV,The Beach Boys,73,"['baroque pop', 'classic rock', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'singer-songwriter', 'sunshine pop']",2019,Pop
+43sZBwHjahUvgbx1WNIkIz,Creed,72,"['alternative metal', 'nu metal', 'post-grunge', 'rock']",2019,Metal
+6Ff53KvcvAj5U7Z1vojB5o,*NSYNC,77,"['boy band', 'dance pop', 'pop']",2019,Pop
+66lH4jAE7pqPlOlzUKbwA0,Miranda Lambert,70,"['contemporary country', 'country', 'country dawn', 'country road']",2019,Country
+716NhGYqD1jl2wI1Qkgq36,Bizarrap,82,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']",2019,Hip Hop
+4npEfmQ6YuiwW1GpUmaq3F,Ava Max,79,['pop'],2019,Pop
+1anyVhU62p31KFi8MEzkbf,Chance the Rapper,73,"['chicago rap', 'conscious hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",2019,Rap
+7Ez6lTtSMjMf2YSYpukP1I,Dasha,76,[],2019,Other
+1cNDP5yjU5vjeR8qMf4grg,YNW Melly,72,"['melodic rap', 'rap']",2019,Rap
+0NIPkIjTV8mB795yEIiPYL,Wallows,72,['pov: indie'],2019,Indie
+5v2WhpA59TJSdPh7LCx1lN,BONES,73,"['cloud rap', 'dark trap']",2019,Rap
+5xYNmNkaWRqu3e5F4UXME8,Alfredo Olivas,79,"['banda', 'corrido', 'musica mexicana', 'norteno', 'sad sierreno', 'sierreno']",2019,Other
+5p9HO3XC5P3BLxJs5Mtrhm,Djo,77,"['pov: indie', 'psychedelic pop']",2019,Indie
+6Q192DXotxtaysaqNPy5yR,Amy Winehouse,78,"['british soul', 'neo soul']",2019,Soul
+3uo0ix4Y67XHVWBhXXIY1S,Xavier Wulf,70,"['cloud rap', 'dark trap', 'memphis hip hop', 'underground hip hop']",2019,Rap
+1HPW4jeRjXBFRoUnSvBzoD,Destroy Lonely,72,['rage rap'],2019,Rap
+3TOqt5oJwL9BE2NG9MEwDa,Disturbed,77,"['alternative metal', 'nu metal', 'rap metal', 'rock']",2019,Metal
+5nvWOyAkfNgVLKESq4fOj2,Montell Fish,75,['pittsburgh rap'],2019,Rap
+6S2OmqARrzebs0tKUEyXyp,Demi Lovato,77,"['pop', 'post-teen pop']",2019,Pop
